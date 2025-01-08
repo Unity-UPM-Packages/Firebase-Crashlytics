@@ -3,7 +3,7 @@
   "displayName": "Firebase Crashlytics",
   "description": "Firebase Crashlytics description goes here.",
   "keywords": [],
-  "version": "12.4.1",
+  "version": "12.5.0",
   "unity": "2022.3",
   "documentationUrl": "https://github.com/Unity-UPM-Packages/Firebase-Crashlytics#documentation",
   "changelogUrl": "https://github.com/Unity-UPM-Packages/Firebase-Crashlytics/releases",
@@ -18,7 +18,7 @@
     "url": "https://github.com/Unity-UPM-Packages"
   },
   "dependencies": {
-    "com.google.firebase.app": "12.4.1"
+    "com.google.firebase.app": "12.5.0"
   },
   "scopedRegistries": [
     {
