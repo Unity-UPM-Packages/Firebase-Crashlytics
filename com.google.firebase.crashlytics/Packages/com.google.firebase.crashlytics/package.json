@@ -1,0 +1,32 @@
+{
+  "name": "com.google.firebase.crashlytics",
+  "displayName": "Firebase Crashlytics",
+  "description": "Firebase Crashlytics description goes here.",
+  "keywords": [],
+  "version": "12.4.0",
+  "unity": "2022.3",
+  "documentationUrl": "https://github.com/Unity-UPM-Packages/Firebase-Crashlytics#documentation",
+  "changelogUrl": "https://github.com/Unity-UPM-Packages/Firebase-Crashlytics/releases",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "repository": "https://github.com/Unity-UPM-Packages/Firebase-Crashlytics.git",
+    "url": "https://github.com/Unity-UPM-Packages/Firebase-Crashlytics.git"
+  },
+  "author": {
+    "name": "Unity-UPM-Packages",
+    "url": "https://github.com/Unity-UPM-Packages"
+  },
+  "dependencies": {
+    "com.google.firebase.app": "12.4.0"
+  },
+  "scopedRegistries": [
+    {
+      "name": "TripSoft",
+      "url": "https://verdaccio.tripdev.io/",
+      "scopes": [
+        "com.google"
+      ]
+    }
+  ]
+}
